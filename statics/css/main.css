@@ -1,0 +1,50 @@
+html {
+  background: white !important;
+  font-family: 'Tajawal', sans-serif !important;
+}
+
+body {
+  color: black !important;
+}
+p {
+  opacity: .80 !important;
+}
+
+a, h2, h3, h4, h5 {
+  font-family: 'Tajawal', sans-serif !important;
+}
+
+h1 {
+  font-family: 'lato', sans-serif;
+}
+.side-header {
+  color: #ffb71c !important;
+  font-family: 'lato', sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.side-text {
+  font-size: 18px;
+  line-height: 2rem;
+}
+
+.custom-padding {
+  padding: 0 60px;
+}
+
+.primary-color {
+  background-color: #00bf9a !important;
+}
+a {
+  color: white !important;
+  font-family: 'lato', sans-serif;
+}
+.secondary-color {
+  background-color: #00aa8d !important;
+
+}
+.masthead-image {
+  background-image: url("../images/cartographer.png");
+  opacity: 1;
+}

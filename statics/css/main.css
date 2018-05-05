@@ -43,6 +43,10 @@ a {
   background-color: #00aa8d !important;
 
 }
+.small-image {
+  width: 350px;
+  height: auto;
+}
 .medium-image {
   width: 540px;
   height: auto;

@@ -55,3 +55,8 @@ a {
   width: 900px;
   height: auto;
 }
+
+.special {
+  border: 5px solid black;
+  padding: 15px;
+}

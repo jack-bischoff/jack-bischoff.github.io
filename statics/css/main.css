@@ -37,14 +37,17 @@ h1 {
   background-color: #00bf9a !important;
 }
 a {
-  color: white !important;
   font-family: 'lato', sans-serif;
 }
 .secondary-color {
   background-color: #00aa8d !important;
 
 }
-.masthead-image {
-  background-image: url("../images/cartographer.png");
-  opacity: 1;
+.medium-image {
+  width: 540px;
+  height: auto;
+}
+.large-image {
+  width: 900px;
+  height: auto;
 }
